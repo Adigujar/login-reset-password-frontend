@@ -1,0 +1,28 @@
+.bg1{
+    background-color: aqua;
+}
+
+.bg2{
+    background-color: rgb(226, 86, 86);
+}
+
+.bg3{
+    background-color: rgb(133, 231, 157);
+}
+
+.r1{
+    border-radius: 25px;
+}
+
+.r2{
+    border-radius: 50px;
+}
+
+.b1{
+    border-style: solid;
+}
+
+.centerimg{
+    text-align: center;
+    
+}
